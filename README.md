@@ -5,43 +5,43 @@ This repository contains all the files nessesary to run the MP3 player. An SQL d
 
 Pictures
 
-![](images/image1.png)
+![](Images/image1.png)
 
 Playlist panel with trees.
 
-![](images/image2.png)
+![](Images/image2.png)
  
 Playlist "Bruch" selected and displayed in the main frame.
 
-![](images/image3.png)
+![](Images/image3.png)
 
 Playlist "Bruch" moved to a separate window and main frame window filled with the song library. Multiple playlist may be open simultaneously.
 
-![](images/image4.png)
+![](Images/image4.png)
 
 Popup menu for adding a selected song to a playlist.
 
- ![](images/image5.png)
+ ![](Images/image5.png)
  
 Open playlist in a new window popup menu - playlist must be selected.
 
-![](images/image6.png)
+![](Images/image6.png)
 
 Create a new playlist from menu "File".
 
-![](images/image7.png) 
+![](Images/image7.png) 
 
 Dialog to name the playlist.
 
-![](images/image8.png)
+![](Images/image8.png)
 
 MyTunes after playlist Radiohead is created. 
 
- ![](images/image9.png) 
+ ![](Images/image9.png) 
 
 Radiohead playlist to separate window.
 
- ![](images/image10.png)
+ ![](Images/image10.png)
  
 Radiohead playlist after "High and Dry" dragged from MyTunes library to playlist.
 
